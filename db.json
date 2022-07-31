@@ -6,10 +6,9 @@
         }
     ],
 
-    "drinks":[
+    "drink_ratings":[
         {
             "id":1,
-            "idDrink":11007,
             "strDrink":"Margarita",
             "powerrating":1500
 
