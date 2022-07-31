@@ -1,4 +1,22 @@
 {
+    "total_ratings":[
+        {
+            "id":1,
+            "total_ratings":0
+        }
+    ],
+
+    "drinks":[
+        {
+            "id":1,
+            "idDrink":11007,
+            "strDrink":"Margarita",
+            "powerrating":1500
+
+        }
+
+    ]
+
     "users": [
       {
         "id": 1,
